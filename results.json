@@ -1,0 +1,14 @@
+[
+  {
+    "candidate": "Alice",
+    "votes": 2
+  },
+  {
+    "candidate": "Bob",
+    "votes": 3
+  },
+  {
+    "candidate": "Charlie",
+    "votes": 1
+  }
+]
